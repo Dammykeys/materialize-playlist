@@ -1,0 +1,9 @@
+header {
+    background: url('img/man.jpg');
+}
+
+@media only screen and (max-width : 670px) {
+
+    header {}
+
+}
